@@ -21,8 +21,9 @@
 		</tr>
 		<tr>
 			<td>Gender :</td>
-			<td><form:radiobutton path="gender" value="M" label="M" /> 
-				<form:radiobutton path="gender" value="F" label="F" /></td>
+			<td><form:radiobutton path="gender" value="M" label="M" />
+				<form:radiobutton path="gender" value="F" label="F" />
+				<form:radiobutton path="gender" value="T" label="T" /></td>
 		</tr>
 		<tr>
 			<td>Country :</td>
@@ -55,7 +56,7 @@
 		</tr>
 	</table>
 
-<table width="30%" bgcolor="yellow" align="center" border=3>
+<table width="50%" bgcolor="blue" align="center" border=3>
 <tr>
 <td colspan=2><center><font size=4><b>HTML Login Page</b></font></center></td>
 </tr>
