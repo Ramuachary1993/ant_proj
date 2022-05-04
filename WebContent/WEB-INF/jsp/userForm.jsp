@@ -9,7 +9,7 @@
 </head>
 <body>
 
-<form:form method="POST" commandName="user">
+<form:form method="POST" commandName="user" bgcolor="cyan"> 
 	<table align="center">
 		<tr>
 			<td>Student Name :</td>
@@ -55,9 +55,9 @@
 		<tr>
 			<td colspan="2"><input type="submit"></td>
 		</tr>
-		</table>
+		</table></center>
 
-<table width="50%" bgcolor="bule" align="center" border=3>
+<table width="50%" bgcolor="blue" align="center" border=3>
 <tr>
 <td colspan=2><center><font size=4><b>HTML Login Page</b></font></center></td>
 </tr>
